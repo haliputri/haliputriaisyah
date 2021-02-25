@@ -6,4 +6,7 @@ int main(){
         f *= i;
     }
     std::cout<<f;
+    for (int i=0; i<10; i++){
+        std::cout<<i+1<<" ";
+    }
 }
