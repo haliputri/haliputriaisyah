@@ -10,4 +10,5 @@ int main(){
         std::cout<<i+1<<" ";
     }
     std::cout<<std::endl;
+    std::cout<<"Halo teman- teman semua!!!\n";
 }
